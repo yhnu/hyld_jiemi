@@ -1,0 +1,212 @@
+{
+    "sections": [
+        {
+            "name": "",
+            "size": 0,
+            "vsize": 0,
+            "perm": "----",
+            "paddr": 0,
+            "vaddr": 0
+        },
+        {
+            "name": ".note.gnu.build_id",
+            "size": 36,
+            "vsize": 36,
+            "perm": "-r--",
+            "paddr": 512,
+            "vaddr": 512
+        },
+        {
+            "name": ".hash",
+            "size": 2796,
+            "vsize": 2796,
+            "perm": "-r--",
+            "paddr": 552,
+            "vaddr": 552
+        },
+        {
+            "name": ".dynsym",
+            "size": 10416,
+            "vsize": 10416,
+            "perm": "-r--",
+            "paddr": 3352,
+            "vaddr": 3352
+        },
+        {
+            "name": ".dynstr",
+            "size": 6845,
+            "vsize": 6845,
+            "perm": "-r--",
+            "paddr": 13768,
+            "vaddr": 13768
+        },
+        {
+            "name": ".gnu.version",
+            "size": 868,
+            "vsize": 868,
+            "perm": "-r--",
+            "paddr": 20614,
+            "vaddr": 20614
+        },
+        {
+            "name": ".gnu.version_r",
+            "size": 96,
+            "vsize": 96,
+            "perm": "-r--",
+            "paddr": 21488,
+            "vaddr": 21488
+        },
+        {
+            "name": ".rela.dyn",
+            "size": 809160,
+            "vsize": 809160,
+            "perm": "-r--",
+            "paddr": 21584,
+            "vaddr": 21584
+        },
+        {
+            "name": ".rela.plt",
+            "size": 10248,
+            "vsize": 10248,
+            "perm": "-r--",
+            "paddr": 830744,
+            "vaddr": 830744
+        },
+        {
+            "name": ".plt",
+            "size": 6864,
+            "vsize": 6864,
+            "perm": "-r-x",
+            "paddr": 840992,
+            "vaddr": 840992
+        },
+        {
+            "name": ".text",
+            "size": 7776572,
+            "vsize": 7776572,
+            "perm": "-r-x",
+            "paddr": 847856,
+            "vaddr": 847856
+        },
+        {
+            "name": ".rodata",
+            "size": 163389,
+            "vsize": 163389,
+            "perm": "-r--",
+            "paddr": 8624432,
+            "vaddr": 8624432
+        },
+        {
+            "name": ".eh_frame_hdr",
+            "size": 259820,
+            "vsize": 259820,
+            "perm": "-r--",
+            "paddr": 8787824,
+            "vaddr": 8787824
+        },
+        {
+            "name": ".eh_frame",
+            "size": 1009432,
+            "vsize": 1009432,
+            "perm": "-r--",
+            "paddr": 9047648,
+            "vaddr": 9047648
+        },
+        {
+            "name": ".gcc_except_table",
+            "size": 21444,
+            "vsize": 21444,
+            "perm": "-r--",
+            "paddr": 10057080,
+            "vaddr": 10057080
+        },
+        {
+            "name": ".note.android.ident",
+            "size": 152,
+            "vsize": 152,
+            "perm": "-r--",
+            "paddr": 10078524,
+            "vaddr": 10078524
+        },
+        {
+            "name": ".init_array",
+            "size": 1064,
+            "vsize": 1064,
+            "perm": "-rw-",
+            "paddr": 10079720,
+            "vaddr": 10145256
+        },
+        {
+            "name": ".fini_array",
+            "size": 16,
+            "vsize": 16,
+            "perm": "-rw-",
+            "paddr": 10080784,
+            "vaddr": 10146320
+        },
+        {
+            "name": ".data.rel.ro",
+            "size": 318568,
+            "vsize": 318568,
+            "perm": "-rw-",
+            "paddr": 10080800,
+            "vaddr": 10146336
+        },
+        {
+            "name": ".dynamic",
+            "size": 592,
+            "vsize": 592,
+            "perm": "-rw-",
+            "paddr": 10399368,
+            "vaddr": 10464904
+        },
+        {
+            "name": ".got",
+            "size": 7968,
+            "vsize": 7968,
+            "perm": "-rw-",
+            "paddr": 10399960,
+            "vaddr": 10465496
+        },
+        {
+            "name": ".data",
+            "size": 3690536,
+            "vsize": 3690536,
+            "perm": "-rw-",
+            "paddr": 10407936,
+            "vaddr": 10473472
+        },
+        {
+            "name": ".bss",
+            "size": 0,
+            "vsize": 139424,
+            "perm": "-rw-",
+            "paddr": 14098472,
+            "vaddr": 14164016
+        },
+        {
+            "name": ".comment",
+            "size": 322,
+            "vsize": 322,
+            "perm": "----",
+            "paddr": 14098472,
+            "vaddr": 0
+        },
+        {
+            "name": "ETC__PII2",
+            "size": 257672,
+            "vsize": 257672,
+            "perm": "--w-",
+            "paddr": 14098800,
+            "vaddr": 0
+        },
+        {
+            "name": ".shstrtab",
+            "size": 259,
+            "vsize": 259,
+            "perm": "----",
+            "paddr": 14356472,
+            "vaddr": 0
+        }
+    ]
+}
